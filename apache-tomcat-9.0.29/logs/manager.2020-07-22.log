@@ -1,0 +1,17 @@
+22-Jul-2020 11:26:34.967 INFO [http-nio-7070-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+22-Jul-2020 11:26:34.967 INFO [http-nio-7070-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+22-Jul-2020 11:26:34.973 INFO [http-nio-7070-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+22-Jul-2020 11:26:34.986 INFO [http-nio-7070-exec-2] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+22-Jul-2020 11:26:34.989 INFO [http-nio-7070-exec-3] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/myapp2'
+22-Jul-2020 11:26:35.773 INFO [http-nio-7070-exec-9] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/myapp2'
+22-Jul-2020 11:26:35.773 INFO [http-nio-7070-exec-9] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\ashwapan\Downloads\devops\apache-tomcat-9.0.29\webapps\myapp2.war
+22-Jul-2020 11:38:28.504 INFO [http-nio-7070-exec-11] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+22-Jul-2020 11:38:28.507 INFO [http-nio-7070-exec-12] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+22-Jul-2020 11:38:28.509 INFO [http-nio-7070-exec-18] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/myapp2'
+22-Jul-2020 11:38:29.286 INFO [http-nio-7070-exec-11] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/myapp2'
+22-Jul-2020 11:38:29.286 INFO [http-nio-7070-exec-11] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\ashwapan\Downloads\devops\apache-tomcat-9.0.29\webapps\myapp2.war
+22-Jul-2020 12:33:54.372 INFO [http-nio-7070-exec-28] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+22-Jul-2020 12:33:54.375 INFO [http-nio-7070-exec-29] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+22-Jul-2020 12:33:54.379 INFO [http-nio-7070-exec-30] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/myapp2'
+22-Jul-2020 12:33:55.097 INFO [http-nio-7070-exec-28] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/myapp2'
+22-Jul-2020 12:33:55.097 INFO [http-nio-7070-exec-28] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\ashwapan\Downloads\devops\apache-tomcat-9.0.29\webapps\myapp2.war

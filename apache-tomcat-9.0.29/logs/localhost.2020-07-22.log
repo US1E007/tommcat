@@ -1,0 +1,12 @@
+22-Jul-2020 11:23:08.651 INFO [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+22-Jul-2020 11:23:13.904 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+22-Jul-2020 11:23:32.138 INFO [main] org.apache.catalina.core.ApplicationContext.log 1 Spring WebApplicationInitializers detected on classpath
+22-Jul-2020 11:23:38.150 INFO [main] org.apache.catalina.core.ApplicationContext.log 1 Spring WebApplicationInitializers detected on classpath
+22-Jul-2020 11:23:38.544 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+22-Jul-2020 11:23:49.399 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'dispatcher'
+22-Jul-2020 11:23:56.328 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+22-Jul-2020 11:23:56.329 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+22-Jul-2020 11:23:56.331 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@3da4e9d2')
+22-Jul-2020 11:26:45.707 INFO [http-nio-7070-exec-9] org.apache.catalina.core.ApplicationContext.log 1 Spring WebApplicationInitializers detected on classpath
+22-Jul-2020 11:38:37.496 INFO [http-nio-7070-exec-11] org.apache.catalina.core.ApplicationContext.log 1 Spring WebApplicationInitializers detected on classpath
+22-Jul-2020 12:34:04.592 INFO [http-nio-7070-exec-28] org.apache.catalina.core.ApplicationContext.log 1 Spring WebApplicationInitializers detected on classpath

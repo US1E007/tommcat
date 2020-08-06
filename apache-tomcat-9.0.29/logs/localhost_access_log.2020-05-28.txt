@@ -1,0 +1,4 @@
+127.0.0.1 - jenkins [28/May/2020:19:42:19 +0530] "GET /manager/text/list HTTP/1.1" 200 371
+127.0.0.1 - jenkins [28/May/2020:19:42:19 +0530] "GET /manager/text/list HTTP/1.1" 200 371
+127.0.0.1 - jenkins [28/May/2020:19:42:20 +0530] "GET /manager/text/undeploy?path=%2Fmyapp2 HTTP/1.1" 200 66
+127.0.0.1 - jenkins [28/May/2020:19:42:46 +0530] "PUT /manager/text/deploy?path=%2Fmyapp2 HTTP/1.1" 200 64

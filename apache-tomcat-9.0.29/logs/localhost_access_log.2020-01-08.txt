@@ -1,0 +1,12 @@
+0:0:0:0:0:0:0:1 - - [08/Jan/2020:11:20:29 +0530] "GET / HTTP/1.1" 200 11415
+0:0:0:0:0:0:0:1 - - [08/Jan/2020:11:20:29 +0530] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [08/Jan/2020:15:08:15 +0530] "GET / HTTP/1.1" 200 11415
+127.0.0.1 - jenkins [08/Jan/2020:15:09:48 +0530] "GET /manager/text/list HTTP/1.1" 200 228
+127.0.0.1 - jenkins [08/Jan/2020:15:09:48 +0530] "GET /manager/text/list HTTP/1.1" 200 228
+127.0.0.1 - jenkins [08/Jan/2020:15:09:49 +0530] "GET /manager/text/undeploy?path=%2Fdevops HTTP/1.1" 200 66
+127.0.0.1 - jenkins [08/Jan/2020:15:10:02 +0530] "PUT /manager/text/deploy?path=%2Fdevops HTTP/1.1" 200 64
+0:0:0:0:0:0:0:1 - - [08/Jan/2020:17:46:00 +0530] "GET / HTTP/1.1" 200 11415
+127.0.0.1 - jenkins [08/Jan/2020:19:26:51 +0530] "GET /manager/text/list HTTP/1.1" 200 228
+127.0.0.1 - jenkins [08/Jan/2020:19:26:51 +0530] "GET /manager/text/list HTTP/1.1" 200 228
+127.0.0.1 - jenkins [08/Jan/2020:19:26:53 +0530] "GET /manager/text/undeploy?path=%2Fdevops HTTP/1.1" 200 66
+127.0.0.1 - jenkins [08/Jan/2020:19:27:07 +0530] "PUT /manager/text/deploy?path=%2Fdevops HTTP/1.1" 200 64

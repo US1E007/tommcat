@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: MyApp2
+Implementation-Version: 2.2.4-SNAPSHOT
+Built-By: ashwapan
+Implementation-Vendor-Id: MyApp2
+Created-By: Apache Maven 3.6.3
+Build-Jdk: 1.8.0_241
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/MyApp2
+
